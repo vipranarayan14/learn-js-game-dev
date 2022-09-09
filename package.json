@@ -1,0 +1,16 @@
+{
+  "name": "learn-js-game-dev",
+  "version": "1.0.0",
+  "description": "My first attempt at game programming.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Prasanna Venkatesh T S <vipranarayan14@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "live-server": "^1.2.1"
+  }
+}
